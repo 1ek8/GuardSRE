@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "datetime>=6.0",
     "httpx>=0.28.1",
     "python-dotenv>=1.2.2",
     "splunk-sdk>=2.1.1",
